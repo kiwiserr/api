@@ -1,19 +1,38 @@
 [
-{
-    "id" : 1,
-    "nom" : "UV",
-    "prix" : 30,
-    "categorie" : "Femmes",
-    "image" : "lunettes1.jpg"
-},
-{
-    "id" : 2,
-    "nom" : "classique",
-    "prix" : 50,
-    "categorie" : "Femmes",
-    "image" :"https://grandvision-images.imgix.net/media/61DFCDC7-BCC8-4E8A-ACCB81165ADF1B09/08C18224-9FE4-40DE-96A9A3085321E1B7/26511D9C-32E8-4CA8-9AF7524D97B41CC3/original_png-8719154833403_00002.png"
-}
-
-
-
+	{
+		"image": "products/01.jpg",
+		"title": "Product title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "9,99"
+	},
+	{
+		"image": "products/02.jpg",
+		"title": "Product title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "9,99"
+	},
+	{
+		"image": "products/03.jpg",
+		"title": "Product title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "9,99"
+	},
+	{
+		"image": "products/04.jpg",
+		"title": "Product title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "9,99"
+	},
+	{
+		"image": "products/05.jpg",
+		"title": "Product title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "9,99"
+	},
+	{
+		"image": "products/06.jpg",
+		"title": "Product title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+		"price": "9,99"
+	}
 ]
